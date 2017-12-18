@@ -1,2 +1,2 @@
-# Sample
-A sample website
+# Example Repository
+A sample description
